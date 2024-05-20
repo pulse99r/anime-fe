@@ -1,0 +1,22 @@
+.nav {
+  border: 1px solid blue;
+  margin: auto;
+  width: 80%;
+}
+.navbar {
+  list-style: none;
+  display: flex;
+  font-size: 14px;
+}
+.navbar-item {
+  background: gray;
+  border: .5px solid gray;
+  border-radius: 5px;
+  color: antiquewhite;
+  margin: 0 5px;
+  padding: 0 2px;
+}
+.navbar-item:hover {
+  background-color: rgb(189, 178, 178);
+  cursor: pointer;
+}
