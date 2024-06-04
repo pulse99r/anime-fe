@@ -5,6 +5,9 @@ function Nav() {
     <div className="nav">
      <ul className="navbar">
         <li className="navbar-item">
+          Home
+        </li>
+        <li className="navbar-item">
           Animes
         </li>
         <li className="navbar-item">

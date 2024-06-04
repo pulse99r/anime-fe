@@ -1,0 +1,11 @@
+.main-page {
+  border: 1px solid silver;
+  margin: auto;
+  width: 80%;
+}
+
+.main-page__content {
+  border: 1px solid red;
+  display: flex;
+  flex-direction: row;
+}

@@ -19,7 +19,7 @@ function Users() {
 
   return (
     <div className="Users">
-      <p>This will show the users and animes</p>
+      <p>User component</p>
     </div>
   );
 }
